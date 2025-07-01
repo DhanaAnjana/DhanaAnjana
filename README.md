@@ -1,16 +1,53 @@
-<h1 align="center">Hi 👋, I'm Dhana Anjana</h1>
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="40"/> I'm Dhana Anjana</h1>
 <p align="center">Computer Science Engineering Student | Front-end Developer | Java & Python Enthusiast | Lifelong Learner</p>
 
 ---
 
-### 👨‍💻 Welcome to my GitHub!
+## 👩‍💻 Welcome to My GitHub!
 
-Excited to learn, build, and collaborate on awesome projects! 🚀  
-I’m passionate about coding, exploring new technologies, and understanding how the human mind works.
+🚀 I'm excited to learn, build, and collaborate on awesome projects!  
+🧠 I’m passionate about coding, exploring new technologies, and understanding how the human mind works.
 
 ---
 
-### 🔗 Connect with me:
+## 🌟 About Me
+
+- 🌱 Currently learning **Full Stack Development**, **C/C++**, and **DevOps Essentials**
+- 💻 Love building apps that merge functionality with creativity
+- 🧠 Psychology enthusiast – curious about how tech + mind can blend meaningfully
+- 🤝 Always up for collaboration, mentorship, or knowledge sharing
+- ⚡ Fun fact: *I believe coding and psychology both help us explore infinite possibilities!*
+
+---
+
+## 🛠️ Languages & Tools I Use
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  
+  <!-- Web -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48px" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48px" alt="Oracle APEX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48px" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48px" alt="SQLite"/>
+
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhana-anjana-s" target="_blank">
@@ -20,67 +57,4 @@ I’m passionate about coding, exploring new technologies, and understanding how
 
 ---
 
-### 🚀 Languages & Tools I Use:
-
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  
-  <!-- Web -->
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/ffffff/linux--v1.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanaAnjana&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhanaAnjana&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanaAnjana&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
-### 🌟 About Me
-
-- 🌱 Currently learning **C, C++, and Full Stack Development**
-- 🧠 Hobbyist in psychology, always curious about how the mind works
-- 🤝 Always up for collaboration and knowledge sharing
-- 💬 Let’s talk about coding, learning, or anything mind-bending!
-- ⚡ Fun fact: *I believe coding and psychology both help us explore infinite possibilities!*
-
----
-
 _“Stay curious. Keep learning. Collaborate and grow together!”_
-
-<!--
-**DhanaAnjana/DhanaAnjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
